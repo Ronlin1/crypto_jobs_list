@@ -36,8 +36,8 @@ for url in urls:
             pass
 
     # Print individual job data        
-    for jop_page in job_pages:
-        print(jop_page.strip())
+    for job_page in job_pages:
+        print(job_page.strip())
               
               
         
